@@ -6,4 +6,4 @@
 - estou estudando JavaScript pois pretendo cursar progamaçâo.
 - tenho planos para meu futuro e nâo pretendo desistir.
 
-![](https://media.tenor.com/i7_txYaELPYAAAAC/goku-black-dbs.gif)
+![](https://media.tenor.com/g-hz4W1e8dQAAAAC/dragon-ball-z-goku-black.gif)
