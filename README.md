@@ -3,6 +3,6 @@
 
 -->Meu nome é Samuel Moura.
 
--estou estudando JavaScript pois pretendo cursar progamaçâo.
--tenho planos para meu futuro e nâo pretendo desistir.
+- estou estudando JavaScript pois pretendo cursar progamaçâo.
+- tenho planos para meu futuro e nâo pretendo desistir.
 
